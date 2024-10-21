@@ -1,0 +1,16 @@
+@import './styles/font-awesome.min.css';
+@import './styles/bootstrap.min.css';
+@import './styles/themify-icons.css';
+@import './styles/owl.carousel.min.css';
+@import './styles/style.css';
+@import './styles/responsive.css';
+
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}

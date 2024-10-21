@@ -1,14 +1,14 @@
 import { component$ } from '@builder.io/qwik';
-import AppImg from '~/media/img/app-img.png?jsx';
-import FlShape1 from '~/media/img/shape/fl-shape-1.png?jsx';
-import FlShape2 from '~/media/img/shape/fl-shape-2.png?jsx';
-import FlShape3 from '~/media/img/shape/fl-shape-3.png?jsx';
-import FlShape4 from '~/media/img/shape/fl-shape-4.png?jsx';
-import FlShape5 from '~/media/img/shape/fl-shape-5.png?jsx';
-import FlShape6 from '~/media/img/shape/fl-shape-6.png?jsx';
-import FlShape7 from '~/media/img/shape/fl-shape-7.png?jsx';
-import FlShape9 from '~/media/img/shape/fl-shape-9.png?jsx';
-import FlShape10 from '~/media/img/shape/fl-shape-10.png?jsx';
+import AppImg from '~/public/img/app-img.png?jsx';
+import FlShape1 from '~/public/img/shape/fl-shape-1.png?jsx';
+import FlShape2 from '~/public/img/shape/fl-shape-2.png?jsx';
+import FlShape3 from '~/public/img/shape/fl-shape-3.png?jsx';
+import FlShape4 from '~/public/img/shape/fl-shape-4.png?jsx';
+import FlShape5 from '~/public/img/shape/fl-shape-5.png?jsx';
+import FlShape6 from '~/public/img/shape/fl-shape-6.png?jsx';
+import FlShape7 from '~/public/img/shape/fl-shape-7.png?jsx';
+import FlShape9 from '~/public/img/shape/fl-shape-9.png?jsx';
+import FlShape10 from '~/public/img/shape/fl-shape-10.png?jsx';
 
 export const About = component$(() => {
   return (

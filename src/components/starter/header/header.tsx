@@ -1,5 +1,5 @@
 import { component$ } from '@builder.io/qwik';
-import ImgLogo from '~/media/img/logo-w.png?jsx';
+import ImgLogo from '~/public/img/logo-w.png?jsx';
 export const Header = component$(() => {
   return (
     <header class="header-area" id="header-area">

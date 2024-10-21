@@ -1,5 +1,5 @@
 import { component$ } from '@builder.io/qwik';
-import ImgLogoW from '~/media/img/logo-w.png?jsx';
+import ImgLogoW from '~/public/img/logo-w.png?jsx';
 
 export const Footer = component$(() => {
   return (

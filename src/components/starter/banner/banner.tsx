@@ -1,5 +1,5 @@
 import { component$ } from '@builder.io/qwik';
-import ImgScreen1 from '~/media/img/screen1.png?jsx';
+import ImgScreen1 from '~/public/img/screen1.png?jsx';
   
 export const Banner = component$(() => {
   return (

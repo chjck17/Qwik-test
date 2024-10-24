@@ -10,6 +10,8 @@ import FlShape7 from '~/public/img/shape/fl-shape-7.png?jsx';
 import FlShape9 from '~/public/img/shape/fl-shape-9.png?jsx';
 import FlShape10 from '~/public/img/shape/fl-shape-10.png?jsx';
 
+
+
 export const About = component$(() => {
   return (
     <section class="about-section section-gap-full relative" id="about-section">
